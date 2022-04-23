@@ -1,7 +1,7 @@
 
 // Author --> LONE.Guy (Ibrohim Abdivokhidov)
 // Ex-Student of INHA University, Currently Student of New Uzbekistan University
-// Rich me --> Instagram: @loneguy | Github: @lilzara
+// Rich me --> Instagram: @loneguy | Github: @abdibrokhim
 // !ALL RIGHTS RESERVED!
 
 // Task --> Currency Converter
